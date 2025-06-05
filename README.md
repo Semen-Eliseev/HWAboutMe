@@ -2,6 +2,6 @@
 
 __Меня зовут Семен Елисеев__
 
-![image info](./pic/me.png)
+![image info](pic/me.png)
 
 Я учусь в Нетологии
